@@ -726,7 +726,7 @@ print "#####################################\n";
 print "#     Auto Root 2k-2k15             #\n";       
 print "#        Coded By eLCrush           #\n";
 print "#####################################\n";
-print "\server r00ted ;)";
+print "\server rooted ;)";
 print "\n./Done";
 }
 
