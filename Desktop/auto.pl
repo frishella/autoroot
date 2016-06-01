@@ -4,7 +4,7 @@
 
 print "#===================================================#\n";
 print "#              Auto Root By eLCrush                 #\n";
-print "#====================[ Kullanimi ]==================#\n";
+print "#====================[ Crootz  ^_^ ]================#\n";
 print "#   perl $0 -root      For Root              #\n";
 print "#   perl $0 -rm       for Remove Log         #\n";
 print "#   perl $0 -del     For Remove Local Root   #\n";
